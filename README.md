@@ -17,3 +17,5 @@ Untuk alur update data sendiri sama juga seperti yang sebelumnya di LP5, dengan 
 # Delete Data
 Untuk alur update data juga sama, dengan perbedaan bahwa data yang dihapus akan ikut terhapus juga dalam database.
 
+https://github.com/hafidzf25/TP2DPBO2024C2/assets/117885795/20d81cee-27b2-4b85-9766-b40d4154ddde
+
